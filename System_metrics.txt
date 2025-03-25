@@ -1,0 +1,13 @@
+Total_CPU_%
+Total_RAM_%
+Free_RAM_%
+PID
+Process_Name
+CPU_Usage_%
+CPU_Affinity
+CPU_Time_s
+Context_Switches
+Memory_Usage_%
+VMS_MB
+User_Priority
+Thread_Count
